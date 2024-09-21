@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<footer></footer>
+
+<b><p>~/ $ cat posts/{{ page.slug }}.md</p></b>
+
+<pre>
+====================================
+<b>{{ page.rich-title }}</b>
+<em>{{ page.date | date: "%Y-%m-%d %H:%M" }}</em>
+====================================
+</pre>
+<br>
+
+{{ content }}

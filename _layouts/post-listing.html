@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<footer></footer>
+
+{{ content }}
+
+{%- if site.posts.size > 0 -%}
+    {%- for post in site.posts -%}
+      {%- assign date_format = "%Y %b %d %H:%M" -%}
+      <p>-rwxr-xr-x mia mia {{ post.date | date: date_format }} <b><a href="{{ post.url | relative_url }}">{{ post.slug }}.md</a></b></p>
+    {%- endfor -%}
+{%- endif -%}
