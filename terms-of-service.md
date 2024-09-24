@@ -23,12 +23,12 @@ If you have any questions, I can be contacted at `webadmin (at) mialikestech (do
 **License Disclosure**
 `====================================`
 
-The underlying code for this site including [Jekyll](https://jekyllrb.com) and the [theme](https://github.com/b2a3e8/jekyll-theme-console) are made available under the [`MIT License`](https://opensource.org/license/MIT). Software linked on this site may be available under a variety of licenses, please consult the linked repository or distribution platform. 
+This site was built using a variety of software and libraries under a few different licenses. [Jekyll](https://jekyllrb.com), [jekyll-theme-console](https://github.com/b2a3e8/jekyll-theme-console), [jekyll-compose](https://github.com/jekyll/jekyll-compose), and [jekyll-feed](https://github.com/jekyll/jekyll-feed) are all available under the terms of the [`MIT License`](https://opensource.org/license/MIT). Additionally it uses [jekyll_picture_tag](https://github.com/rbuchberger/jekyll_picture_tag), available under the terms of the [BSD 3-Clause License](https://github.com/rbuchberger/jekyll_picture_tag/blob/master/LICENSE.txt). Additional site code written by me is made available under the terms of the [`MIT License`](https://opensource.org/license/MIT). Other software linked to on this site may be available under a variety of licenses, please consult the linked repository or distribution platform.
 
-Any blogs, text, or other content hosted directly on this site is licensed under the [`Creative Commons Attribution-Noncommercial-Noderivatives 4.0 International Licence`](https://creativecommons.org/licenses/by-nc-nd/4.0/) unless otherwise stated. 
+Any blogs, text, or other content hosted on this site is licensed under the [`Creative Commons Attribution-Noncommercial-Noderivatives 4.0 International Licence`](https://creativecommons.org/licenses/by-nc-nd/4.0/) unless otherwise stated. 
+
+If you're trying to do something outside of the bounds of this license, we may still be able to work something out. Contact me at `webadmin (at) mialikestech (dot) dev` to explain your usecase and we can talk more.
 
 The ASCII art used in the site header is from Joan G. Stark sourced from an [archive of her site](https://oldcompcz.github.io/jgs/joan_stark) and used in accordance with [her guidelines](https://oldcompcz.github.io/jgs/joan_stark/please.html). As such, it does not fall within the above mentioned CC BY-NC-ND license.
-
-If you're trying to do something outside of the bounds of this license, we may still be able to work something out. If you've got an interesting project that you think may require a different license, contact me at `webadmin (at) mialikestech (dot) dev` and I'd be happy to talk more.
 
 ***I have not, and will never allow use of my content for AI training. Please do not attempt to do so or ask me for an exception.***
