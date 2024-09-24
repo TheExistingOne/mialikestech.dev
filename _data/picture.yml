@@ -1,0 +1,8 @@
+presets:
+  default:
+    formats: [jpeg, original]
+    widths: [200, 400, 600, 720]
+    
+    size: 90vw
+
+    dimension_attributes: true
