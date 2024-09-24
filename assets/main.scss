@@ -1,13 +1,10 @@
 ---
 ---
 
+@import "theme-tweaks";
 @import "light";
 @import "base";
 
 @media (prefers-color-scheme: dark) {
 	@import "dark";
-}
-
-pre.highlight {
-    line-height: 1.2 !important;
 }

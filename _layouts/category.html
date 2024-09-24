@@ -4,12 +4,16 @@ layout: default
 
 <footer></footer>
 
-{{ content }}
+<p><b>~/ $ ls -l posts/{{ page.title }}</b></p>
 
-{%- if site.posts.size > 0 -%}
-    {%- for post in site.posts -%}
+{%- if page.posts.size > 0 -%}
+    {%- for post in page.posts -%}
       {%- assign date_format = "%Y %b %d %H:%M" -%}
       <p><span>-rwxr-xr-x mia mia {{ post.date | date: date_format }} <b><a href="{{ post.url | relative_url }}">{{ post.slug }}.md</a></b></span>
     <span class="categories"><small>{%- for category in post.categories -%}<span><a href="/posts/{{ category }}">{{ category }}</a>  </span>{%- endfor -%}</small></span></p>
     {%- endfor -%}
 {%- endif -%}
+
+<br>
+
+<p><a href="/posts/"><b>~/ $ cd ../</b></a></p>

@@ -1,0 +1,42 @@
+/* Overriding theme variables */
+$container-width:      90%;
+$container-max-width:  720px;
+
+.fetch {
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Stop the header from having big gaps in the ASCII art */
+pre.fetch-text {
+    line-height: 1.3 !important;
+}
+
+.fetch-ascii {
+    padding-left: 4ch;
+}
+
+.fetch-links {
+    flex-grow: 1;
+}
+
+@media screen and (max-device-width: 400px) {
+    .fetch-ascii {
+        padding-left: 0;
+        padding-bottom: 4ch;
+    }
+}
+
+img {
+    display: block;
+    max-width: $container-max-width;
+    width: auto;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+small.label {
+    display: inline;
+}
