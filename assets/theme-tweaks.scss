@@ -37,6 +37,14 @@ img {
     margin-right: auto;
 }
 
-small.label {
-    display: inline;
+/* Container for images and captions */
+figure {
+    margin: 0; // Remove weird auto-margin that the browser embeds
+    padding-bottom: 15px; // Patch <p> padding for consistency
+}
+
+/* Image captions */
+figcaption {
+    font-style: italic;
+    font-size: 8pt;
 }
