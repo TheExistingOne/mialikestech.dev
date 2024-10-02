@@ -58,3 +58,4 @@ exclude:
   - README.md
   - LICENSE
   - .vscode/
+  - .github/
