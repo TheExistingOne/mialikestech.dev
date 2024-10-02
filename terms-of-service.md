@@ -11,9 +11,9 @@ permalink: /tos/
 *Last updated 2024-09-20*
 `====================================`
 
-While I do not personally collect any information from you during your visit, this site is hosted on Github Sites which collects routine data about users. This includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. I do not have control over or access to this data, for more information please consult the [GitHub Pages About](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection) and the [GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+While I do not personally collect any information from you during your visit, this site is hosted on Github Sites which collects routine data about users. This includes, but is not limited to: IP addresses, browser details, timestamps and referring pages. I do not have control over or access to this data, for more information please consult the [GitHub Pages About](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection) and the [GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). It also uses Google Fonts to load webfonts for the page, which will result in some data being sent to Google. This includes, but is not limited to: IP addresses, browser capabilities and timestamps. More information can be found at the [Google Fonts Privacy FAQ](https://developers.google.com/fonts/faq/privacy).
 
-This site may also link to external sites outside my control. Please consult their privacy policies separately.
+This site may also link to external sites outside my control, such as Github, Bluesky, and Itch. Please consult their privacy policies separately.
 
 If you have any questions, I can be contacted at `webadmin (at) mialikestech (dot) dev`
 
