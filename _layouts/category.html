@@ -4,7 +4,7 @@ layout: default
 
 <footer></footer>
 
-<p><b>~/ $ ls -l posts/{{ page.title }}</b></p>
+<p><b>~/posts/{{ page.title }} $ ls -l</b></p>
 
 {%- if page.posts.size > 0 -%}
     {%- for post in page.posts -%}
@@ -16,4 +16,4 @@ layout: default
 
 <br>
 
-<p><a href="/posts/"><b>~/ $ cd ../</b></a></p>
+<p><a href="/posts/"><b>~/ $ cd ../../</b></a></p>
