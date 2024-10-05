@@ -8,3 +8,5 @@ presets:
     dimension_attributes: true
 
     link_source: true
+
+    nomarkdown: false
