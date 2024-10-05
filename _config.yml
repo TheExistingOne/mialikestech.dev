@@ -47,10 +47,12 @@ jekyll_compose:
   default_front_matter:
     drafts:
       rich-title: "Give Full Name Here"
-      category:
+      subtitle: "Subtitle here"
+      categories:
     posts:
       rich-title: "Give Full Name Here"
-      category:
+      subtitle: "Subtitle here"
+      categories:
 
 # Files excluded from static generation
 exclude:
