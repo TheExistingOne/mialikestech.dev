@@ -40,3 +40,7 @@ gem "webrick", "~> 1.8"
 gem "erb", "~> 4.0"
 
 gem "jekyll-theme-console", "~> 0.4.0"
+
+# CSV and ostruct will no longer be in the stdlib in the next ruby release.
+gem "csv", "~> 3.3"
+gem "ostruct", "~> 0.6.0"
