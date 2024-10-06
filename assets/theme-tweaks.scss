@@ -37,6 +37,10 @@ img {
     margin-right: auto;
 }
 
+ul {
+    margin-bottom: 2ch !important;
+}
+
 /* Container for images and captions */
 figure {
     margin: 0; // Remove weird auto-margin that the browser embeds
@@ -45,6 +49,11 @@ figure {
 
 /* Image captions */
 figcaption {
+    font-style: italic;
+    font-size: 8pt;
+}
+/* Footnotes */
+.footnotes {
     font-style: italic;
     font-size: 8pt;
 }
